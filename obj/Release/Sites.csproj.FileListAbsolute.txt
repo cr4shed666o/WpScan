@@ -1,0 +1,17 @@
+C:\Users\st4in-\Desktop\Workers\obj\Release\Sites.csprojAssemblyReference.cache
+C:\Users\st4in-\Desktop\Workers\obj\Release\Sites.csproj.CoreCompileInputs.cache
+C:\Users\st4in-\Desktop\Workers\bin\Release\Sites.exe.config
+C:\Users\st4in-\Desktop\Workers\bin\Release\Sites.exe
+C:\Users\st4in-\Desktop\Workers\bin\Release\Sites.pdb
+C:\Users\st4in-\Desktop\Workers\bin\Release\Leaf.xNet.dll
+C:\Users\st4in-\Desktop\Workers\obj\Release\Sites.csproj.CopyComplete
+C:\Users\st4in-\Desktop\Workers\obj\Release\Sites.exe
+C:\Users\st4in-\Desktop\Workers\obj\Release\Sites.pdb
+C:\Users\st4in-\Desktop\Workers — копия\bin\Release\Sites.exe.config
+C:\Users\st4in-\Desktop\Workers — копия\bin\Release\Sites.exe
+C:\Users\st4in-\Desktop\Workers — копия\bin\Release\Sites.pdb
+C:\Users\st4in-\Desktop\Workers — копия\obj\Release\Sites.csprojAssemblyReference.cache
+C:\Users\st4in-\Desktop\Workers — копия\obj\Release\Sites.csproj.CoreCompileInputs.cache
+C:\Users\st4in-\Desktop\Workers — копия\obj\Release\Sites.csproj.CopyComplete
+C:\Users\st4in-\Desktop\Workers — копия\obj\Release\Sites.exe
+C:\Users\st4in-\Desktop\Workers — копия\obj\Release\Sites.pdb
